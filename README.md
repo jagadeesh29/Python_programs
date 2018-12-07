@@ -12,3 +12,5 @@ This repository Contains the list of below programs:
 9.  Given a number, find the next prime number (if 8 is the input, the function should return 11. If 11 is input, it should return 13)
 
 10. Given a number, find the prime number that comes first when we count backwards. (if 11 is input, it should return 7. If 9 is inputs, it should return 7)
+
+14. Given a string, find the length of the string and print it to the console
