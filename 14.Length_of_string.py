@@ -8,3 +8,15 @@ def len_of_string():
     print(result)
 
 len_of_string()
+
+'''
+Testcases:
+
+Input                       output
+0                               1
+jagadeesh                       9
+1234jac                         7
+"   "                           3
+
+
+'''
